@@ -1,4 +1,5 @@
 # CS230-Portfolio-m08
+# Kain Mason
 # Software Design Documentation
 
 ## Who was the client? What type of software did they want you to design?
